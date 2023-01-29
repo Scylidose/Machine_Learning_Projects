@@ -22,3 +22,6 @@
 [submodule "Predict_Stock_Prices"]
 	path = Predict_Stock_Prices
 	url = https://github.com/Scylidose/Predict_Stock_Prices
+[submodule "Sentiment_Estimator"]
+	path = Sentiment_Estimator
+	url = https://github.com/Scylidose/Sentiment_Estimator
