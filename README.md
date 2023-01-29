@@ -92,3 +92,9 @@ The goal of this project is to allow the user to code remotely from his computer
 Botlan is an algorithm that will ingest television series transcripts and output a totally new script.
 
 - Python.
+
+********
+
+<h3 align="center"><a href="https://github.com/Scylidose/RasPIT">RasPIT (WIP)</a></h3>
+
+Alexa like project using Raspberry PI and ChatGPT.

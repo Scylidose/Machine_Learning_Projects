@@ -25,3 +25,6 @@
 [submodule "Sentiment_Estimator"]
 	path = Sentiment_Estimator
 	url = https://github.com/Scylidose/Sentiment_Estimator
+[submodule "RasPIT"]
+	path = RasPIT
+	url = https://github.com/Scylidose/RasPIT
