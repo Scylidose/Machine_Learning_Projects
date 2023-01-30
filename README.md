@@ -71,9 +71,12 @@ https://user-images.githubusercontent.com/28122432/170842748-47354517-9159-4464-
 
 ********
 
-<h3 align="center"><a href="https://github.com/Scylidose/CancerDetection">Cancer Detection (WIP)</a></h3>
+<h3 align="center"><a href="https://github.com/Scylidose/MECC">MECC (WIP)</a></h3>
 
-Will help to determine if clinical data on unhealthy patients are related to cancer.
+MECC (Miscellaneous Educational Cybersecurity Chatbot) is a specialized chatbot for cybersecurity education and sensibilization.
+
+- Python, Flask
+- Typescript, Angular, Less
 
 ********
 
@@ -87,7 +90,13 @@ The goal of this project is to allow the user to code remotely from his computer
 
 ********
 
-<h3 align="center"><a href="https://github.com/Scylidose/Botlan">Botlan (WIP)</a></h3>
+<h3 align="center"><a href="https://github.com/Scylidose/CancerDetection">Cancer Detection (TBC)</a></h3>
+
+Will help to determine if clinical data on unhealthy patients are related to cancer.
+
+********
+
+<h3 align="center"><a href="https://github.com/Scylidose/Botlan">Botlan (TBC)</a></h3>
 
 Botlan is an algorithm that will ingest television series transcripts and output a totally new script.
 
@@ -95,6 +104,6 @@ Botlan is an algorithm that will ingest television series transcripts and output
 
 ********
 
-<h3 align="center"><a href="https://github.com/Scylidose/RasPIT">RasPIT (WIP)</a></h3>
+<h3 align="center"><a href="https://github.com/Scylidose/RasPIT">RasPIT (TBC)</a></h3>
 
 Alexa like project using Raspberry PI and ChatGPT.
