@@ -10,9 +10,9 @@
 
 Will predict the close value of the Basic Attention Token currency based on its open value.
 
-- Recurrent Neural Network, Long Short-Term Memory.  
+- ***Recurrent Neural Network, Long Short-Term Memory.*** 
 
-- Flask, Jinja, CSS, JavaScript.
+- ***Flask, Jinja, CSS, JavaScript.***
 
 ********
 
@@ -24,9 +24,9 @@ Will predict the close value of the Basic Attention Token currency based on its 
 
 Fetch some Tweets based on a given input and will estimate the global sentiment behind it.
 
-- Logistic Regression.  
+- ***Logistic Regression.***
 
-- Flask, Jinja, CSS, JavaScript.
+- ***Flask, Jinja, CSS, JavaScript.***
 
 ********
 
@@ -37,9 +37,9 @@ https://user-images.githubusercontent.com/28122432/190934054-f9175785-64b3-4c4d-
 
 Will generate either a Battle, Route or Building song based on the fourth generation (Platinum/Diamond/Perl) of the Pokemon games.
 
-- Gated Recurrent Units, Long Short-Term Memory.
+- ***Gated Recurrent Units, Long Short-Term Memory.***
 
-- Flask, Jinja, CSS, JavaScript.
+- ***Flask, Jinja, CSS, JavaScript.***
 
 ********
 
@@ -52,7 +52,7 @@ Will generate either a Battle, Route or Building song based on the fourth genera
 
 Display a bot on Discord that will listen to the user's input and repeat a sentence for a specific number of times and in the targeted channel. Can also play audio files and links in a voice channel.
 
-- Python, Heroku, SQL.
+- ***Python, Heroku, SQL.***
 
 ********
 
@@ -67,7 +67,7 @@ AISNA is a deep learning algorithm which use **live faces recognition** to deter
 
 https://user-images.githubusercontent.com/28122432/170842748-47354517-9159-4464-86b9-64cea4c2f599.mp4
 
-- Python.
+- ***Python.***
 
 ********
 
@@ -79,12 +79,12 @@ https://user-images.githubusercontent.com/28122432/170842748-47354517-9159-4464-
 
 MECC (Miscellaneous Educational Cybersecurity Chatbot) is a specialized chatbot for cybersecurity education and sensibilization.
 
-* Take a quiz to see how much you know about cybersecurity
-* Cybersecurity teacher on various themes
-* Senzibilization on data shared online
+1. Take a quiz to see how much you know about cybersecurity
+2. Cybersecurity teacher on various themes
+3. Senzibilization on data shared online
 
-- Python, Flask
-- Typescript, Angular, Less
+- ***Python, Flask.***
+- ***Typescript, Angular, Less.***
 
 ********
 
@@ -94,7 +94,7 @@ Will permit an user to code little instructions in Python using his voice. The i
 
 The goal of this project is to allow the user to code remotely from his computer for a short or longer period of time.
 
-- Python.
+- ***Python.***
 
 ********
 
@@ -108,7 +108,7 @@ Will help to determine if clinical data on unhealthy patients are related to can
 
 Botlan is an algorithm that will ingest television series transcripts and output a totally new script.
 
-- Python.
+- ***Python.***
 
 ********
 
