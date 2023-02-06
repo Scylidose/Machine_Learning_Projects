@@ -71,9 +71,17 @@ https://user-images.githubusercontent.com/28122432/170842748-47354517-9159-4464-
 
 ********
 
-<h3 align="center"><a href="https://github.com/Scylidose/MECC">MECC (WIP)</a></h3>
+<h3 align="center"><a href="https://github.com/Scylidose/MECC">MECC</a></h3>
+
+<p align="center">
+  <img src="img/mecc.png" alt="MECC png" width="650" />
+</p>
 
 MECC (Miscellaneous Educational Cybersecurity Chatbot) is a specialized chatbot for cybersecurity education and sensibilization.
+
+* Take a quiz to see how much you know about cybersecurity
+* Cybersecurity teacher on various themes
+* Senzibilization on data shared online
 
 - Python, Flask
 - Typescript, Angular, Less
