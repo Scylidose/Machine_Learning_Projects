@@ -10,9 +10,12 @@
 
 Will predict the close value of the Basic Attention Token currency based on its open value.
 
-- ***Recurrent Neural Network, Long Short-Term Memory.*** 
+<p align="center">
+  <b><i>Recurrent Neural Network</i></b> and <b><i>Long Short-Term Memory.</i></b><br><br>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Keras-C50000?style=for-the-badge&logo=keras&logoColor=white">
+</p>
 
-- ***Flask, Jinja, CSS, JavaScript.***
 
 ********
 
@@ -24,9 +27,11 @@ Will predict the close value of the Basic Attention Token currency based on its 
 
 Fetch some Tweets based on a given input and will estimate the global sentiment behind it.
 
-- ***Logistic Regression.***
-
-- ***Flask, Jinja, CSS, JavaScript.***
+<p align="center">
+  <b><i>Logistic Regression.</i></b><br><br>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</p>
 
 ********
 
@@ -37,9 +42,11 @@ https://user-images.githubusercontent.com/28122432/190934054-f9175785-64b3-4c4d-
 
 Will generate either a Battle, Route or Building song based on the fourth generation (Platinum/Diamond/Perl) of the Pokemon games.
 
-- ***Gated Recurrent Units, Long Short-Term Memory.***
-
-- ***Flask, Jinja, CSS, JavaScript.***
+<p align="center">
+  <b><i>Gated Recurrent Units</i></b> and <b><i>Long Short-Term Memory.</i></b><br><br>
+	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
+</p>
 
 ********
 
@@ -52,22 +59,24 @@ Will generate either a Battle, Route or Building song based on the fourth genera
 
 Display a bot on Discord that will listen to the user's input and repeat a sentence for a specific number of times and in the targeted channel. Can also play audio files and links in a voice channel.
 
-- ***Python, Heroku, SQL.***
+<p align="center">
+	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+</p>
 
 ********
 
 <h3 align="center"><a href="https://github.com/Scylidose/AISNA">AISNA</a></h3>
 
-  AISNA is a project inspired from the Person of Interest TV series and more specifically from this episode excerpt (S4xE05):  
-
-  [![Admin is not Admin](http://img.youtube.com/vi/nhWe2nf24ag/0.jpg)](http://www.youtube.com/watch?v=nhWe2nf24ag "Person of Interest - Admin is not Admin")
-
-
-AISNA is a deep learning algorithm which use **live faces recognition** to determine if the person on camera is either an admin or an unknown person. It also uses **voice recognition** to show more features on the broadcast if certain words are used.
+  AISNA is a project inspired from the Person of Interest TV series and more specifically from an episode excerpt ([S4xE05](http://www.youtube.com/watch?v=nhWe2nf24ag))
 
 https://user-images.githubusercontent.com/28122432/170842748-47354517-9159-4464-86b9-64cea4c2f599.mp4
 
-- ***Python.***
+AISNA is a deep learning algorithm which use **live faces recognition** to determine if the person on camera is either an admin or an unknown person. It also uses **voice recognition** to show more features on the broadcast if certain words are used.
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
 
 ********
 
@@ -83,8 +92,11 @@ MECC (Miscellaneous Educational Cybersecurity Chatbot) is a specialized chatbot 
 2. Cybersecurity teacher on various themes
 3. Senzibilization on data shared online
 
-- ***Python, Flask.***
-- ***Typescript, Angular, Less.***
+<p align="center">
+	<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+</p>
 
 ********
 
@@ -94,7 +106,9 @@ Will permit an user to code little instructions in Python using his voice. The i
 
 The goal of this project is to allow the user to code remotely from his computer for a short or longer period of time.
 
-- ***Python.***
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</p>
 
 ********
 
@@ -108,7 +122,9 @@ Will help to determine if clinical data on unhealthy patients are related to can
 
 Botlan is an algorithm that will ingest television series transcripts and output a totally new script.
 
-- ***Python.***
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</p>
 
 ********
 
