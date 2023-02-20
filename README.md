@@ -82,15 +82,24 @@ AISNA is a deep learning algorithm which use **live faces recognition** to deter
 
 <h3 align="center"><a href="https://github.com/Scylidose/MECC">MECC</a></h3>
 
-<p align="center">
-  <img src="img/mecc.png" alt="MECC png" width="650" />
-</p>
+
+<h1 align="center">
+<img width="800" alt="MECC image" src="https://user-images.githubusercontent.com/28122432/220011878-d60605aa-b438-4d79-92f8-85af25ab05fd.png">
+</h1>
 
 MECC (Miscellaneous Educational Cybersecurity Chatbot) is a specialized chatbot for cybersecurity education and sensibilization.
 
-1. Take a quiz to see how much you know about cybersecurity
-2. Cybersecurity teacher on various themes
-3. Senzibilization on data shared online
+<ul>
+  <li><h5>Display usefull ressources about protecting personal data.</h5></li>
+
+  <li><h5>Take a quiz to see how much you know about cybersecurity and see your weaknesses.</h5></li>
+
+  <li><h5>Cybersecurity teacher on various themes.</h5></li>
+
+  <li><h5>Text and video capsule to learn more about cybersecurity.</h5></li>
+
+  <li><h5>Senzibilization on data shared online.</h5></li>
+</ul>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><br>
