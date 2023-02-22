@@ -35,7 +35,7 @@ Fetch some Tweets based on a given input and will estimate the global sentiment 
 
 ********
 
-<h3 align="center"><a href="https://github.com/Scylidose/Generate_Music">Generate Pokemon Songs</a></h3>
+<h3 align="center"><a href="https://github.com/Scylidose/PokeBeats">PokeBeats</a></h3>
 
 https://user-images.githubusercontent.com/28122432/190934054-f9175785-64b3-4c4d-80dc-c975371ea6ff.mp4
 
