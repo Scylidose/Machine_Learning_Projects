@@ -16,15 +16,15 @@
 [submodule "Discord-Bot"]
 	path = Discord-Bot
 	url = https://github.com/Scylidose/Discord-Bot/
-[submodule "Predict_Stock_Prices"]
-	path = Predict_Stock_Prices
-	url = https://github.com/Scylidose/Predict_Stock_Prices
-[submodule "Sentiment_Estimator"]
-	path = Sentiment_Estimator
-	url = https://github.com/Scylidose/Sentiment_Estimator
 [submodule "RasPIT"]
 	path = RasPIT
 	url = https://github.com/Scylidose/RasPIT
 [submodule "PokeBeats"]
 	path = PokeBeats
 	url = https://github.com/Scylidose/PokeBeats
+[submodule "BATPredict"]
+	path = BATPredict
+	url = https://github.com/Scylidose/BATPredict
+[submodule "TweetFeel"]
+	path = TweetFeel
+	url = https://github.com/Scylidose/TweetFeel
