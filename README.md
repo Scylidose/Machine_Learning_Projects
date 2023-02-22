@@ -109,6 +109,16 @@ MECC (Miscellaneous Educational Cybersecurity Chatbot) is a specialized chatbot 
 
 ********
 
+<h3 align="center"><a href="https://github.com/Scylidose/NarrativeAI">NarrativeAI (TBC)</a></h3>
+
+NarrativeAI is an algorithm that will ingest television series transcripts and output a totally new script.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</p>
+
+********
+
 <h3 align="center"><a href="https://github.com/Scylidose/VoiceCoding">VoiceCoding (WIP)</a></h3>
 
 Will permit an user to code little instructions in Python using his voice. The instructions can afterward be executed and the result (or error) will be transcribed by a text-to-speech algorithm. 
@@ -124,16 +134,6 @@ The goal of this project is to allow the user to code remotely from his computer
 <h3 align="center"><a href="https://github.com/Scylidose/CancerDetection">Cancer Detection (TBC)</a></h3>
 
 Will help to determine if clinical data on unhealthy patients are related to cancer.
-
-********
-
-<h3 align="center"><a href="https://github.com/Scylidose/Botlan">Botlan (TBC)</a></h3>
-
-Botlan is an algorithm that will ingest television series transcripts and output a totally new script.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-</p>
 
 ********
 
