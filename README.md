@@ -2,10 +2,10 @@
 
 ## Projects
 
-<h3 align="center"><a href="https://github.com/Scylidose/Predict_Stock_Prices">Predict BAT CryptoCurrency Close value</a></h3>
+<h3 align="center"><a href="https://github.com/Scylidose/BATPredict">BATPredict</a></h3>
 
 <p align="center">
-  <img src="img/crypto_bat-img.png" alt="CryptoCurrency png" width="650" />
+  <img src="img/crypto_bat-img.png" alt="BATPredict png" width="650" />
 </p>
 
 Will predict the close value of the Basic Attention Token currency based on its open value.
@@ -19,10 +19,10 @@ Will predict the close value of the Basic Attention Token currency based on its 
 
 ********
 
-<h3 align="center"><a href="https://github.com/Scylidose/Sentiment_Estimator">Estimate the Global Sentiment behind Tweets</a></h3>
+<h3 align="center"><a href="https://github.com/Scylidose/TweetFeel">TweetFeel</a></h3>
 
 <p align="center">
-  <img src="img/estimation-gif.gif" alt="Sentiment_Estimator_gif" width="650" />
+  <img src="img/estimation-gif.gif" alt="TweetFeel gif" width="650" />
 </p>
 
 Fetch some Tweets based on a given input and will estimate the global sentiment behind it.
