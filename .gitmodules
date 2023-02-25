@@ -25,6 +25,3 @@
 [submodule "TweetFeel"]
 	path = TweetFeel
 	url = https://github.com/Scylidose/TweetFeel
-[submodule "NarrativeAI"]
-	path = NarrativeAI
-	url = https://github.com/Scylidose/NarrativeAI
