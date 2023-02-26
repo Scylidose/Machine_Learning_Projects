@@ -119,6 +119,16 @@ NarrativeAI is an algorithm that ingest television series transcripts and output
 
 ********
 
+<h3 align="center"><a href="https://github.com/Scylidose/DirectFind">DirectFind/a></h3>
+
+An answer-based search engine that delivers accurate and concise results, saving time and effort for users.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</p>
+
+********
+
 <h3 align="center"><a href="https://github.com/Scylidose/VoiceCoding">VoiceCoding (WIP)</a></h3>
 
 Will permit an user to code little instructions in Python using his voice. The instructions can afterward be executed and the result (or error) will be transcribed by a text-to-speech algorithm. 
