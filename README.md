@@ -111,6 +111,10 @@ MECC (Miscellaneous Educational Cybersecurity Chatbot) is a specialized chatbot 
 
 <h3 align="center"><a href="https://github.com/Scylidose/NarrativeAI">NarrativeAI</a></h3>
 
+<h1 align="center">
+<img width="800" alt="NarrativeAI image" src="https://user-images.githubusercontent.com/28122432/221449653-dbce23d5-9f95-4d9d-b5cd-dac3df31b733.png">
+</h1>
+
 NarrativeAI is an algorithm that ingest television series transcripts and output a totally new script.
 
 <p align="center">
