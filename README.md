@@ -75,6 +75,7 @@ https://user-images.githubusercontent.com/28122432/170842748-47354517-9159-4464-
 AISNA is a deep learning algorithm which use **live faces recognition** to determine if the person on camera is either an admin or an unknown person. It also uses **voice recognition** to show more features on the broadcast if certain words are used.
 
 <p align="center">
+	<b><i>MobileNets.</i></b><br><br>
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
@@ -118,6 +119,7 @@ MECC (Miscellaneous Educational Cybersecurity Chatbot) is a specialized chatbot 
 NarrativeAI is an algorithm that ingest television series transcripts and output a totally new script.
 
 <p align="center">
+  <b><i>GPT-NEO.</i></b><br><br>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
 
