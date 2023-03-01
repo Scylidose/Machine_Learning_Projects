@@ -28,6 +28,3 @@
 [submodule "NarrativeAI"]
 	path = NarrativeAI
 	url = https://github.com/Scylidose/NarrativeAI.git
-[submodule "DirectFind"]
-	path = DirectFind
-	url = https://github.com/Scylidose/DirectFind
