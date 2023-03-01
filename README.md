@@ -125,7 +125,7 @@ NarrativeAI is an algorithm that ingest television series transcripts and output
 
 ********
 
-<h3 align="center"><a href="https://github.com/Scylidose/DirectFind">DirectFind</a></h3>
+<h3 align="center"><a href="https://github.com/Scylidose/AtlasFind">AtlasFind</a></h3>
 
 An answer-based search engine that delivers accurate and concise results, saving time and effort for users.
 
