@@ -113,7 +113,7 @@ MECC (Miscellaneous Educational Cybersecurity Chatbot) is a specialized chatbot 
 <h3 align="center"><a href="https://github.com/Scylidose/NarrativeAI">NarrativeAI</a></h3>
 
 <h1 align="center">
-<img width="800" alt="NarrativeAI image" src="https://user-images.githubusercontent.com/28122432/221449653-dbce23d5-9f95-4d9d-b5cd-dac3df31b733.png">
+<img width="450" alt="NarrativeAI image" src="https://user-images.githubusercontent.com/28122432/221449653-dbce23d5-9f95-4d9d-b5cd-dac3df31b733.png">
 </h1>
 
 NarrativeAI is an algorithm that ingest television series transcripts and output a totally new script.
@@ -127,7 +127,7 @@ NarrativeAI is an algorithm that ingest television series transcripts and output
 <h3 align="center"><a href="https://github.com/Scylidose/AtlasFind">AtlasFind</a></h3>
 
 <h1 align="center">
-<img width="800" alt="AtlasFind image" src="https://user-images.githubusercontent.com/28122432/225151408-bab59e8d-f058-4df7-875f-fa9431222636.png">
+<img width="500" alt="AtlasFind image" src="https://user-images.githubusercontent.com/28122432/225151408-bab59e8d-f058-4df7-875f-fa9431222636.png">
 </h1>
 
 An answer-based search engine that delivers concise results about No Man's Sky related questions.
